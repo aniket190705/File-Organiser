@@ -17,4 +17,4 @@ Creates a folder named after the file extension (e.g., .txt files go into a txtF
 Moves the file into the corresponding folder.
 If the element is a directory, the script simply skips it.
 
-NOTE: Install node.js before using the file. Write this in terminal "npm i".
+NOTE: Install node.js before using the file. Write "npm i" in your terminal.
