@@ -1,4 +1,3 @@
-File Organizer Script
 This Node.js script is designed to organize files in a directory by their file extensions. It scans the directory, creates folders based on file extensions, and moves the files into their respective folders.
 
 Features
@@ -11,7 +10,7 @@ Customizable Directory: The script runs in the current working directory, but yo
 How It Works
 The script reads all files and folders in the specified directory.
 It checks each element to determine if it's a file or a directory.
-If the element is a file, it:
+If the element is a file, it
 Skips the main script file (main.js) to avoid moving itself.
 Creates a folder named after the file extension (e.g., .txt files go into a txtFiles folder).
 Moves the file into the corresponding folder.
